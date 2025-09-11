@@ -1,0 +1,1 @@
+document.getElementById("logo").href = window.location.origin;
