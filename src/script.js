@@ -1,1 +1,3 @@
-document.getElementById("logo").href = window.location.origin;
+var logo = document.getElementById("logo")
+
+logo.href = window.location.origin;
